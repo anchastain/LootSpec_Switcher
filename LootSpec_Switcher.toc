@@ -1,0 +1,10 @@
+## Interface: 70000
+## Title: LootSpec Switcher
+## Notes: Quick loot specialization switcher
+## X-Curse-Packaged-Version: 1.0.2
+## X-Curse-Project-Name: LootSpec Switcher
+## X-Curse-Project-ID: lootspec-switcher
+## X-Curse-Repository-ID: wow/lootspec-switcher/mainline
+## Maintainer: Aurae @ Ravencrest (US)
+
+LootSpec_Switcher.lua
