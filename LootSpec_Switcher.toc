@@ -1,4 +1,4 @@
-## Interface: 70000
+## Interface: 70100
 ## Title: LootSpec Switcher
 ## Notes: Quick loot specialization switcher
 ## X-Curse-Packaged-Version: 1.0.2
